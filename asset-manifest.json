@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/norkadev/static/css/main.d92ac43b.css",
+    "main.js": "/norkadev/static/js/main.e6ff236f.js",
+    "static/js/787.5106277a.chunk.js": "/norkadev/static/js/787.5106277a.chunk.js",
+    "static/media/color-sharp.png": "/norkadev/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/norkadev/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/laptop.png": "/norkadev/static/media/laptop.260ecb1f7155136b1cf3.png",
+    "static/media/CentraNo2-Bold.ttf": "/norkadev/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/norkadev/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/norkadev/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/norkadev.png": "/norkadev/static/media/norkadev.cf6ce4c11eff3768b54d.png",
+    "static/media/reactjs.jpg": "/norkadev/static/media/reactjs.8a6eb62af069420930ae.jpg",
+    "static/media/rn.jpg": "/norkadev/static/media/rn.eb7b5e34014b768bd6a4.jpg",
+    "static/media/java.jpg": "/norkadev/static/media/java.9a884a2ac067aa19efc3.jpg",
+    "static/media/vuejs.jpg": "/norkadev/static/media/vuejs.9318e67b6b3b178f035c.jpg",
+    "static/media/contact-img.svg": "/norkadev/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/norkadev/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/norkadev/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/norkadev/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/norkadev/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/github-svgrepo-com (2).svg": "/norkadev/static/media/github-svgrepo-com (2).fcf32548f0512fa355adaf7a173d19c0.svg",
+    "static/media/meter1.svg": "/norkadev/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/norkadev/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/instagram-167-svgrepo-com.svg": "/norkadev/static/media/instagram-167-svgrepo-com.b91480f1bf53327b6d0948a2c4ae90ab.svg",
+    "static/media/logo.svg": "/norkadev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/email.svg": "/norkadev/static/media/email.3f437bd9bc9d08d558e4fcfc57aa3ca0.svg",
+    "static/media/linkedin-svgrepo-com (5).svg": "/norkadev/static/media/linkedin-svgrepo-com (5).69e9f32a8bd45b3ea406d59fc91c7d7d.svg",
+    "index.html": "/norkadev/index.html",
+    "static/media/arrow2.svg": "/norkadev/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/norkadev/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.d92ac43b.css.map": "/norkadev/static/css/main.d92ac43b.css.map",
+    "main.e6ff236f.js.map": "/norkadev/static/js/main.e6ff236f.js.map",
+    "787.5106277a.chunk.js.map": "/norkadev/static/js/787.5106277a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d92ac43b.css",
+    "static/js/main.e6ff236f.js"
+  ]
+}
